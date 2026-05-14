@@ -1,16 +1,75 @@
-## Hi there 👋
+# Hi, I'm Suellen 👋
 
-<!--
-**srasilva1910/srasilva1910** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Developer focused on building modern, responsive and user-centered web applications.
 
-Here are some ideas to get you started:
+🌎 Trilingual professional (Portuguese, English and Spanish) with international experience across Brazil, Mexico and Canada.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently developing full stack applications using React, Node.js and MongoDB while refining UI/UX skills and frontend architecture.
+
+---
+
+## 🚀 Tech Stack
+
+### Frontend
+
+* React
+* Vite
+* JavaScript
+* HTML5
+* CSS3
+* Responsive Design
+
+### Backend
+
+* Node.js
+* Express
+* MongoDB Atlas
+
+### Tools
+
+* Git & GitHub
+* VS Code
+* Figma
+
+---
+
+## 🏥 Featured Project
+
+### StayHealthy — Medical Appointment Management App
+
+Full stack web application designed for hospital and clinic appointment management.
+
+#### Features
+
+* User authentication
+* Appointment scheduling
+* Patient reports
+* Responsive interface
+* Secure backend integration
+
+#### Stack
+
+React • Node.js • Express • MongoDB Atlas
+
+🔗 Live Demo: https://stayhealthyf.onrender.com
+
+---
+
+## 🌱 Currently Learning
+
+* Postman
+* Advanced React patterns
+* UI/UX improvements
+* API architecture
+
+---
+
+## 📫 Connect With Me
+
+* LinkedIn: www.linkedin.com/in/suellen-regina-alves-da-silva-a527b8202
+* Portfolio: [Add your future portfolio link]
+* Email: [s.r.a.silva.1910@gmail.com](mailto:s.r.a.silva.1910@gmail.com)
+
+---
+
+⭐ Always learning, building and improving.
